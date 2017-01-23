@@ -1,6 +1,6 @@
 {
   "name": "sequelize-testing-fixtures",
-  "version": "0.5.7",
+  "version": "0.5.8",
   "description": "sequelize fixture loader, without console logging",
   "main": "index.js",
   "scripts": {
