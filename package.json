@@ -1,7 +1,7 @@
 {
-  "name": "sequelize-fixtures",
-  "version": "0.5.6",
-  "description": "sequelize fixture loader",
+  "name": "sequelize-testing-fixtures",
+  "version": "0.5.7",
+  "description": "sequelize fixture loader, without console logging",
   "main": "index.js",
   "scripts": {
     "test": "rm -f ./testdb.sqlite && ./node_modules/.bin/mocha tests"
